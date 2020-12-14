@@ -1,0 +1,34 @@
+html{
+    background-color: black;
+}
+
+.t1{
+    text-align: center;
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+     
+    font-weight: 900;
+}
+
+ .jj{
+     background-color: black;
+ }
+
+ 
+.k{
+    padding: 30px;
+    background-color: #454746;
+}
+
+.hw{
+  background-color: #454746;  
+}
+
+.kk{
+     background-color: black;
+}
+
+button{
+     
+    padding: 5px;
+    border-radius: 17px;
+}
